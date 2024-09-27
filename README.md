@@ -8,7 +8,7 @@
 
     ```bash
     git clone https://github.com/Anush99/Demo-Web-Shop-Automation-Tests.git
-    cd automation-python-playwright
+    cd Demo-Web-Shop-Automation-Tests
     ```
     
 
