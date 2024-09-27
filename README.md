@@ -7,7 +7,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/automation-python-playwright.git
+    git clone [https://github.com/yourusername/automation-python-playwright.git](https://github.com/Anush99/Demo-Web-Shop-Automation-Tests.git)
     cd automation-python-playwright
     ```
     
