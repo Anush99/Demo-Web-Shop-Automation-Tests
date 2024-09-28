@@ -100,7 +100,6 @@ def test_checkout(browser):
     billing_page = BillingPage(page)
     billing_page.fill_billing_form("name", "last name", email, "city", "address 1", "001", "+1234566")
     billing_page.select_country("United States")
-    time.sleep(10)
     billing_page.click_continue()
     billing_page.click_continue_billing()
     billing_page.click_continue_shipping()
